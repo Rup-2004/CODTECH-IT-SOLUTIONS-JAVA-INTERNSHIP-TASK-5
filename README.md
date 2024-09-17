@@ -68,11 +68,11 @@ showMenu(): Displays the main menu and allows users to interact with the system.
 Compile the Program: Use the following command in your terminal/command prompt to compile the program:
 
 bash
-javac BankSystem.java
+javac App.java
 Run the Program: After compiling, run the program using the following command:
 
 bash
-java BankSystem
+java App
 
 Menu Options: After starting the program, you'll see a menu with the following options:
 
